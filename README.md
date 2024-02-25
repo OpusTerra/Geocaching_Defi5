@@ -86,7 +86,7 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 									</tr>
 					</table>
 					<br>
-
+					<br>
 					<table style="width: 101%">
 									<tr>
 													<td><strong>Exemple de 
