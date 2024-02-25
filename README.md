@@ -17,7 +17,7 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 					<br>
 					<a class="thickbox" href="Sample_ResultDefi5Caches.html?id=10">
 					<img alt="" src="sampleDefi5.jpg" width="491" height="235" class="style1"></a>
-     					<img src="https://github.com/OpusTerra/my_alarm_fsm/blob/main/schematic.png" alt="Schematic" width="500"/> <br>
+     					<br>
 					<br>
 					<br>
 					Au démarrage, la macro vous affichera cette boite de dialogue:<br>
