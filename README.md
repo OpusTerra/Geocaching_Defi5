@@ -12,7 +12,7 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 					Flag43</a>.<br>
 					<br>
 					Voici un
-					<a href="Misc/Sample_ResultDefi5Caches.html?id=10">
+					<a href="https://github.com/OpusTerra/Geocaching_Defi5/blob/main/Sample_ResultDefi5Caches.html">
 					exemple du résultat</a> produit par cette macro.<br>
 					<br>
 					<a class="thickbox" href="Misc/Sample_ResultDefi5Caches.html?id=10">
