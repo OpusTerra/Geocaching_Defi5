@@ -15,8 +15,8 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 					<a href="https://github.com/OpusTerra/Geocaching_Defi5/blob/main/Sample_ResultDefi5Caches.html">
 					exemple du résultat</a> produit par cette macro.<br>
 					<br>
-					<a class="thickbox" href="Misc/Sample_ResultDefi5Caches.html?id=10">
-					<img alt="" src="Misc/sampleDefi5.jpg" width="491" height="235" class="style1"></a><br>
+					<a class="thickbox" href="Sample_ResultDefi5Caches.html?id=10">
+					<img alt="" src="sampleDefi5.jpg" width="491" height="235" class="style1"></a><br>
 					<br>
 					<br>
 					Au démarrage, la macro vous affichera cette boite de dialogue:<br>
