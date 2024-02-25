@@ -25,7 +25,7 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 					<table style="width: 100%">
 									<tr>
 													<td class="style3">
-													<img alt="" src="Misc/DialogDefi5.jpg" width="205" height="288">
+													<img alt="" src="https://github.com/OpusTerra/Geocaching_Defi5/blob/main/DialogDefi5.jpg" width="205" height="288">
 													</td>
 													<td valign="top" class="style2">
 													Le check box <em><strong>
