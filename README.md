@@ -216,9 +216,7 @@ font-size: 10px;" width="425" class="style10">
 					Vous pouvez obtenir la plus récente version de la macro en 
 					cliquant ici: <br>
 					<br>
-					<a linkindex="126" onclick="window.open(this.href);return false;" class="postlink" href="Misc/Defi5_V3.gsk?id=9">Defi5_V3.gsk 
-					</a>(téléchargé <font color="#FF0000"><script language="Javascript">ccount_display('9')</script>
-					</font>fois) (Version actuelle: 1.92)<br>
+					<a href="https://github.com/OpusTerra/Geocaching_Defi5/blob/main/Defi5_V3.gsk">Defi5_V3.gsk </a>
 					<br>
 					Notes:<br>
 					<br>
