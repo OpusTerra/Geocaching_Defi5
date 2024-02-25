@@ -5,11 +5,6 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 					<a target="_blank" href="http://www.geocaching.com/seek/cache_details.aspx?guid=44754c7b-2a78-4ff1-995b-d0206d002d1b">
 					Le DÉFI 5 (Lanaudière</a>). <br>
 					<br>
-					Vous trouverez ici l<a target="_blank" href="http://www.geocaching.com/bookmarks/view.aspx?guid=8cccd3c1-9b62-4e43-9e81-b6581714d7f0">a 
-					liste complète (Bookmark</a> list) des caches de type Défi5 qui couvre les régions du Québec. Cette liste est 
-					maintenue par le concepteur original du challenge,
-					<a href="http://www.geocaching.com/profile/default.aspx?guid=baf42847-7443-43c5-b1cf-22621ff957c9">
-					Flag43</a>.<br>
 					<br>
 					Voici un
 					<a href="https://github.com/OpusTerra/Geocaching_Defi5/blob/main/Sample_ResultDefi5Caches.html">
