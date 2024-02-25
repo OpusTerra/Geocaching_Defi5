@@ -135,7 +135,7 @@ Voici une macro GSAK pour vous aider à évaluer les caches
 					Quand vous lancez l'exécution vous aurez un écran DOS 
 					typique dans lequel vous verrez à l'œuvre la macro.<br>
 					<br>
-					<img alt="" src="Misc/RunningDefi5.jpg" width="469" height="201"><br>
+					<img alt="" src="https://github.com/OpusTerra/Geocaching_Defi5/blob/main/RunningDefi5.jpg" width="469" height="201"><br>
 					<br>
 					<br>
 					Après un certain temps, vous obtiendrez un rapport HTML qui 
